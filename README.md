@@ -1,24 +1,12 @@
 ### Hi there 👋
 
 <!--
-**jeongsk/jeongsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Github](https://www.codenary.co.kr/widget/github/api?username=김정규-11)](https://www.codenary.co.kr/user-profile/detail/김정규-11?github_ride=true&utm_source=github)
 
 <h1 align="center">Jeongkyu Kim 👋</h1>
 <h3 align="center">📚 Technology Stack 📚</h3>
+
+[![Github](https://www.codenary.co.kr/widget/github/api?username=김정규-11)](https://www.codenary.co.kr/user-profile/detail/김정규-11?github_ride=true&utm_source=github)
+
 <p align="center">
   <img src="https://img.shields.io/badge/-JAVASCRIPT-brighten" alt="badge"/>&nbsp
   <img src="https://img.shields.io/badge/-REACT.JS-brighten" alt="badge"/>&nbsp
