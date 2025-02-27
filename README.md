@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 
 <h1 align="center">Jeongkyu Kim 👋</h1>
 <h3 align="center">📚 Technology Stack 📚</h3>
