@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Github](https://www.codenary.co.kr/widget/github/api?username=10년차개발자)](https://www.codenary.co.kr/user-profile/detail/10년차개발자?github_ride=true&utm_source=github)
+[![Github](https://www.codenary.co.kr/widget/github/api?username=김정규-11)](https://www.codenary.co.kr/user-profile/detail/김정규-11?github_ride=true&utm_source=github)
 
 <h1 align="center">Jeongkyu Kim 👋</h1>
 <h3 align="center">📚 Technology Stack 📚</h3>
