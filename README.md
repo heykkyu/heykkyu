@@ -2,7 +2,6 @@
 <h1 align="center">Jeongkyu Kim 👋</h1>
 <h3 align="center">📚 Technology Stack 📚</h3>
 
-[![Github](https://www.codenary.co.kr/widget/github/api?username=김정규-11)](https://www.codenary.co.kr/user-profile/detail/김정규-11?github_ride=true&utm_source=github)
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JAVASCRIPT-brighten" alt="badge"/>&nbsp
